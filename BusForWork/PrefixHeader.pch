@@ -1,0 +1,25 @@
+//
+//  PrefixHeader.pch
+//  BusForWork
+//
+//  Created by 周传森 on 2019/8/10.
+//  Copyright © 2019 森. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "ZSTools.h"
+#import "ZSBusCoreData.h"
+#import "UIView+LayoutMethods.h"
+#import "ZSNetWork.h"
+#import "ZSBusURLs.h"
+
+#define SCREENRECT [UIScreen mainScreen].bounds
+#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
