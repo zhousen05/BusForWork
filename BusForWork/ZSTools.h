@@ -22,6 +22,7 @@ typedef enum : NSUInteger {
     ZSBusLine_H31
 } ZSBusLine;
 
+
 @interface ZSTools : NSObject
 
 + (BOOL)loadIsAM;

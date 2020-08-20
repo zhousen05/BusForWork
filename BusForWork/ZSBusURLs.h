@@ -50,6 +50,7 @@ static NSString * const ZSBusLineInfo_H31_PM = @"http://api.chelaile.net.cn/bus/
 
 
 
+
 static NSString * const ZSBusLineDetail_H31_PM = @"http://api.chelaile.net.cn/bus/line!busesDetail.action?idfa=00000000-0000-0000-0000-000000000000&geo_type=wgs&lineId=0755-03110-1&language=1&geo_lat=22.572452&geo_lng=114.054703&sv=12.3.1&stats_referer=searchResult&filter=1&deviceType=iPhone8,4&s=IOS&lng=114.054703&lchsrc=icon&screenHeight=1136&stats_order=1-1&pushkey=&v=5.20.0&udid=6f4dabfc51908ea6b34911dc4ac736da04f0edd7&stats_act=switch_stn&targetOrder=19&userAgent=Mozilla/5.0%20(iPhone;%20CPU%20iPhone%20OS%2012_3_1%20like%20Mac%20OS%20X)%20AppleWebKit/605.1.15%20(KHTML,%20like%20Gecko)%20Mobile/15E148&sign=5PYT5fGQPZOX8LdHWZayfw==&nw=WiFi&mac=&wifi_open=1&geo_lac=65.000000&cityId=014&lat=22.572452&push_open=0&vc=10250&flpolicy=0&userId=";
 
 
