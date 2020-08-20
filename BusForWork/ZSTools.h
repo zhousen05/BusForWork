@@ -19,7 +19,7 @@ typedef enum : NSUInteger {
     ZSBusLine_334,
     ZSBusLine_H22,
     ZSBusLine_H11,
-    ZSBusLine_H31,
+    ZSBusLine_H31
 } ZSBusLine;
 
 @interface ZSTools : NSObject
