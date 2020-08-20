@@ -61,6 +61,9 @@
         case ZSBusLine_H11:
             lineName = @"H11";
             break;
+        case ZSBusLine_H31:
+            lineName = @"H31";
+            break;
             
         default:
             break;
@@ -93,6 +96,9 @@
             case ZSBusLine_H11:
                 url = ZSBusLineInfo_H11_AM;
                 break;
+            case ZSBusLine_H31:
+                url = ZSBusLineInfo_H31_AM;
+                break;
                 
             default:
                 break;
@@ -118,6 +124,9 @@
                 break;
             case ZSBusLine_H11:
                 url = ZSBusLineInfo_H11_PM;
+                break;
+            case ZSBusLine_H31:
+                url = ZSBusLineInfo_H31_PM;
                 break;
                 
             default:
@@ -151,6 +160,9 @@
             case ZSBusLine_H11:
                 url = ZSBusLineDetail_H11_AM;
                 break;
+            case ZSBusLine_H31:
+                url = ZSBusLineDetail_H31_AM;
+                break;
             default:
                 break;
         }
@@ -175,6 +187,9 @@
                 break;
             case ZSBusLine_H11:
                 url = ZSBusLineDetail_H11_PM;
+                break;
+            case ZSBusLine_H31:
+                url = ZSBusLineDetail_H31_PM;
                 break;
                 
             default:

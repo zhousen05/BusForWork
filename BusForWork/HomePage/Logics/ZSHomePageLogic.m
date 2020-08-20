@@ -26,6 +26,7 @@
                     [NSNumber numberWithInteger:ZSBusLine_M222],
 //                    [NSNumber numberWithInteger:ZSBusLine_334],
                     [NSNumber numberWithInteger:ZSBusLine_H22],
+                     [NSNumber numberWithInteger:ZSBusLine_H31]
 //                    [NSNumber numberWithInteger:ZSBusLine_H11]
                     ];
     }
